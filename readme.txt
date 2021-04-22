@@ -1,8 +1,8 @@
-sudah paham:
-    * git dan github
+requirement, knowledge:
+    paham git dan github.
+    *gitkraken > github desktop > git gui
 
-
-perlu dilakukan:
-    belajar golang
-    belajar gui golang
-    belajar gin golang
+requirement, software:
+    go installed
+    go get -u github.com/gin-gonic/gin
+    
